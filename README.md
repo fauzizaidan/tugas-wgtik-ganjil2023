@@ -1,2 +1,3 @@
-# tugas-wgtik-ganjil2023
-Ini adalah repository untuk pengumpulan tugas WGTIK IF Semester Ganjil 2023/2024
+# Tugas-WGTIK-ganjil2023
+Saya Fauzi Zaidan Pratama, ini adalah hasil tugas saya.
+Ini adalah repository untuk pengumpulan tugas WGTIK IF Semester Ganjil 2023/2024.
